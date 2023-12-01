@@ -1,6 +1,6 @@
 # Домашнее задание к занятию "6. Работа с файлами, DnD"
 
-![CI](https://github.com/silverscreened19/ahj-dnd/actions/workflows/web.yml/badge.svg)
+[![Build status](https://ci.appveyor.com/api/projects/status/5hgic8cq28vc2f57?svg=true)](https://ci.appveyor.com/project/Silverscreened19/ahj-dnd)
 
 Правила сдачи задания:
 
