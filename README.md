@@ -2,7 +2,7 @@
 
 https://silverscreened19.github.io/ahj-dnd/
 
-[![Build status](https://ci.appveyor.com/api/projects/status/5hgic8cq28vc2f57?svg=true)](https://ci.appveyor.com/project/Silverscreened19/ahj-dnd)
+[![Build status](https://ci.appveyor.com/api/projects/status/bw7jg2y5ntn63528?svg=true)](https://ci.appveyor.com/project/Silverscreened19/ahj-dnd-k93mq)
 
 Правила сдачи задания:
 
